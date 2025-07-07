@@ -1,4 +1,7 @@
 # CapstoneSA
+
+<p>A real-time dynamic pricing simulation for urban parking spaces using **Python**, **Pandas**, **Numpy**, **Pathway**, and **Bokeh**.  
+It adjusts parking prices based on demand, occupancy, traffic conditions, queue lengths, and real-time events, with smooth and explainable pricing changes.</p>
 <h3> Techstacks used </h3> 
 <table>
   <thead>
